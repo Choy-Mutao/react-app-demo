@@ -1,0 +1,10 @@
+.item {
+    color: black;
+    list-style: none;
+    font-size: 22px;    
+}
+
+.del-btn {
+    color: red;
+    margin: 5px;
+}
